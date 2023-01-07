@@ -1,3 +1,1 @@
-git is awasome
-new line
-Yo
+experiment with amend
